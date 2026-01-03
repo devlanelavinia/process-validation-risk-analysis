@@ -20,3 +20,6 @@ Rule-based checks applied to input data to ensure completeness, consistency, and
 
 ## Trade-offs
 This project prioritizes clarity and reliability over performance and scale.
+
+## Outcome
+This validation layer highlights how simple rule-based checks can prevent silent failures and reduce operational risk in data-driven processes.
