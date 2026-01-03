@@ -1,0 +1,6 @@
+employee_id,department,access_level,last_review_date
+101,Finance,admin,2024-05-10
+102,HR,user,2023-11-02
+103,IT,,2024-01-15
+104,Finance,admin,
+105,Operations,user,2024-02-28
