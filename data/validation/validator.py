@@ -20,4 +20,5 @@ with open('data/sample_input.csv', newline='') as csvfile:
     for row in reader:
         problems = validate_row(row)
         if problems:
-            print(f"Row {row['employee_id']}: {problems}")
+    print(f"[RISK] Employee {row['employee_id']} -> {', '.join(problems)}")
+
